@@ -3,3 +3,4 @@ backend/.env
 *.exe
 *.test
 *.out
+docs/go-concurrency-notes.md
