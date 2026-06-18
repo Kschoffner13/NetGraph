@@ -7,9 +7,9 @@ function WorldMap() {
   return (
     <Map
       initialViewState={{
-        longitude: 0,
-        latitude: 20,
-        zoom: 1.3,
+        longitude: -100,
+        latitude: 60,
+        zoom: 3.5,
       }}
       minZoom={1}
       dragRotate={false}
